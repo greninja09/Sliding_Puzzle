@@ -25,7 +25,7 @@ A Python-based sliding puzzle game with stage selection, smooth animations, and 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/greninja09/Sliding_Puzzle.git
    cd sliding-puzzle
    ```
 2. Ensure you have Python 3.9+ installed.
@@ -139,7 +139,7 @@ Korean Description / 한국어 설명
 
 1. 이 저장소를 clone합니다:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/greninja09/Sliding_Puzzle.git
    cd sliding-puzzle
    ```
 2. Python 3.9 이상의 버전을 설치했는지 확인합니다.
